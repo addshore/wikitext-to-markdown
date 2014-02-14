@@ -1,4 +1,13 @@
 {
+	"name": "addshore/wikitext-to-markdown",
+	"type": "library",
+	"description": "Used to convert from mediawiki wikitext to markdown",
+	"keywords": ["Mediawiki","markdown"],
+	"authors": [
+		{
+			"name": "Addshore"
+		}
+	],
 	"require": {
 		"nickcernis/html-to-markdown": "2.1.*",
 		"addwiki/guzzle-mediawiki-client": "dev-master"
