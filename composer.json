@@ -1,0 +1,11 @@
+{
+	"require": {
+		"nickcernis/html-to-markdown": "2.1.*",
+		"addwiki/guzzle-mediawiki-client": "dev-master"
+	},
+	"autoload": {
+		"psr-4": {
+			"WikitextToMarkdown\\": "src/"
+		}
+	}
+}
